@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F0146wAJavmaQIr5UsxC-5" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b style=&quot;&quot;&gt;Rainfall (Rf),&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;Maximum temperature (Tmax),&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;b style=&quot;&quot;&gt;Minimum temperature (Tmin)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=none;fontSize=16;dashed=1;dashPattern=8 8;fontColor=#000000;" vertex="1" parent="UrOnI7uU73F_u0JW5zdo-0">
-          <mxGeometry x="24" y="22" width="240" height="72" as="geometry" />
+          <mxGeometry x="24" y="24" width="240" height="72" as="geometry" />
         </mxCell>
         <mxCell id="UrOnI7uU73F_u0JW5zdo-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
