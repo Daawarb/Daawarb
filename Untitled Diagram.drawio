@@ -33,22 +33,19 @@
             <mxPoint x="320" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UrOnI7uU73F_u0JW5zdo-0" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px; color: rgb(255, 255, 51);&quot;&gt;Climate variable selection&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=24;fillStyle=auto;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;gradientColor=default;swimlaneFillColor=light-dark(#FFFF33,#00A200);rounded=1;shadow=1;glass=1;swimlaneLine=1;gradientDirection=radial;strokeWidth=3;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="132" width="288" height="96" as="geometry">
+        <mxCell id="UrOnI7uU73F_u0JW5zdo-0" value="&lt;font style=&quot;color: rgb(255, 255, 51); font-size: 20px;&quot;&gt;Climate variable selection&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=24;fillStyle=auto;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;gradientColor=default;swimlaneFillColor=light-dark(#FFFF33,#00A200);rounded=1;shadow=1;glass=1;swimlaneLine=1;gradientDirection=radial;strokeWidth=3;dashed=1;fontFamily=Garamond;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="132" width="288" height="96" as="geometry">
             <mxRectangle x="510" y="60" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0146wAJavmaQIr5UsxC-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Rainfall (Rf),&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Maximum temperature (Tmax),&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Minimum temperature (Tmin)&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=none;fontSize=16;dashed=1;dashPattern=1 1;fontColor=#000000;" vertex="1" parent="UrOnI7uU73F_u0JW5zdo-0">
-          <mxGeometry x="33.99000000000001" y="24" width="216" height="72" as="geometry" />
+        <mxCell id="F0146wAJavmaQIr5UsxC-5" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b style=&quot;&quot;&gt;Rainfall (Rf),&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;Maximum temperature (Tmax),&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;b style=&quot;&quot;&gt;Minimum temperature (Tmin)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=none;fontSize=16;dashed=1;dashPattern=8 8;fontColor=#000000;" vertex="1" parent="UrOnI7uU73F_u0JW5zdo-0">
+          <mxGeometry x="24" y="22" width="240" height="72" as="geometry" />
         </mxCell>
         <mxCell id="UrOnI7uU73F_u0JW5zdo-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="207.5" y="573" as="sourcePoint" />
             <mxPoint x="207.5" y="573" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UrOnI7uU73F_u0JW5zdo-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;strokeColor=#FFFF00;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="283.01" y="216" width="84" height="327.71" as="geometry" />
         </mxCell>
         <mxCell id="UrOnI7uU73F_u0JW5zdo-14" value="Nonparametric trend analysis" style="swimlane;whiteSpace=wrap;html=1;startSize=20;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="72" y="732" width="312" height="99" as="geometry">
@@ -61,16 +58,16 @@
         <mxCell id="F0146wAJavmaQIr5UsxC-0" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul style=&quot;color: rgb(0, 0, 0); text-wrap-mode: nowrap; font-size: 16px; text-align: left; background-color: rgb(251, 251, 251);&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Trend analysis using Modified Mann-Kendall&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Estimation of magnitude using Sen&#39;s slope&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UrOnI7uU73F_u0JW5zdo-14">
           <mxGeometry x="-6" y="25.5" width="312" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UrOnI7uU73F_u0JW5zdo-17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;Data processing&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=24;fillStyle=solid;gradientColor=#3399FF;swimlaneFillColor=#D5E8D4;strokeColor=#006666;dashed=1;strokeWidth=2;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="264" width="290.01" height="72" as="geometry">
+        <mxCell id="UrOnI7uU73F_u0JW5zdo-17" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 20px;&quot;&gt;Data processing&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=24;fillStyle=solid;gradientColor=#3399FF;swimlaneFillColor=#D5E8D4;strokeColor=#006666;dashed=1;strokeWidth=2;rounded=1;shadow=1;glass=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="254" y="264" width="260" height="72" as="geometry">
             <mxRectangle x="510" y="60" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UrOnI7uU73F_u0JW5zdo-35" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Extraction /&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cleaning /&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Conversion&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=16;strokeWidth=0;rounded=1;sketch=1;curveFitting=1;jiggle=2;glass=1;shadow=1;" parent="UrOnI7uU73F_u0JW5zdo-17" vertex="1">
-          <mxGeometry x="11.000000000000005" y="25" width="228" height="36" as="geometry" />
+        <mxCell id="UrOnI7uU73F_u0JW5zdo-35" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b style=&quot;&quot;&gt;Extraction /&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cleaning /&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Conversion&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=16;strokeWidth=0;rounded=1;glass=1;shadow=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="UrOnI7uU73F_u0JW5zdo-17" vertex="1">
+          <mxGeometry x="-4" y="28" width="264" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="UrOnI7uU73F_u0JW5zdo-19" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Gridded climate data&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;1972-2024 (53 years)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;From Indian Meteorological Department&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;backgroundOutline=1;fillColor=default;rounded=1;glass=1;shadow=1;strokeColor=#3333FF;gradientColor=#666666;fontColor=light-dark(#000099,#DADAFF);fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;gradientDirection=east;strokeWidth=4;perimeterSpacing=4;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="155.99" y="24" width="332.01" height="84" as="geometry" />
+        <mxCell id="UrOnI7uU73F_u0JW5zdo-19" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Garamond&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Gridded climate data&lt;/font&gt;&lt;br&gt;1972-2024 (53 years)&lt;br&gt;&lt;font style=&quot;&quot;&gt;From Indian Meteorological Department&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=process;backgroundOutline=1;fillColor=default;rounded=1;glass=1;shadow=1;strokeColor=#3333FF;gradientColor=#009999;fontColor=light-dark(#000099,#DADAFF);fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;html=1;gradientDirection=north;strokeWidth=4;perimeterSpacing=4;dashed=1;dashPattern=12 12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="155.99" y="24" width="480.01" height="82" as="geometry" />
         </mxCell>
         <mxCell id="UrOnI7uU73F_u0JW5zdo-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
