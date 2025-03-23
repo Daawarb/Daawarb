@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z_O7BqnWDiYaL66tDtSz-3" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Stage IV&lt;/b&gt;&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#7EA6E0;gradientColor=default;fillStyle=auto;strokeWidth=3;shadow=0;fontColor=#999900;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="941" y="649" width="72" height="63" as="geometry" />
+          <mxGeometry x="940" y="649" width="72" height="63" as="geometry" />
         </mxCell>
         <mxCell id="z_O7BqnWDiYaL66tDtSz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.687;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrOnI7uU73F_u0JW5zdo-19" target="UrOnI7uU73F_u0JW5zdo-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
