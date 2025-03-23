@@ -183,8 +183,15 @@
             <mxPoint x="962.8130000000001" y="436.39099999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z_O7BqnWDiYaL66tDtSz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.67;entryY=-0.092;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F0146wAJavmaQIr5UsxC-17" target="F0146wAJavmaQIr5UsxC-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z_O7BqnWDiYaL66tDtSz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.67;entryY=-0.092;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="924" y="283" as="sourcePoint" />
+            <mxPoint x="978.56" y="343.188" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="924" y="315" />
+              <mxPoint x="979" y="315" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
