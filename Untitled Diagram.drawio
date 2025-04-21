@@ -261,7 +261,25 @@
           <mxGeometry x="-912" y="1224" width="240" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pRps3llsVFfzWdUyvhSi-24" value="Hyperparameter&amp;nbsp;&lt;div&gt;Optimization&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-584" y="866" width="156" height="154" as="geometry" />
+          <mxGeometry x="-558" y="866" width="156" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="pRps3llsVFfzWdUyvhSi-25" value="Bayesian Optimization" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-568" y="1092" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRps3llsVFfzWdUyvhSi-31" value="1D Convolutional Layer" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-600" y="1212" width="240" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="pRps3llsVFfzWdUyvhSi-32" value="MaxPooling Layer" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-600" y="1248" width="240" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="pRps3llsVFfzWdUyvhSi-33" value="Bidirectional LSTM Layers&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221D%20Convolutional%20Layer%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-912%22%20y%3D%221080%22%20width%3D%22240%22%20height%3D%2236%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221D%20Convolutional%20Layer%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-912%22%20y%3D%221080%22%20width%3D%22240%22%20height%3D%2236%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-600" y="1284" width="240" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="pRps3llsVFfzWdUyvhSi-34" value="Dropout Layer" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-600" y="1320" width="240" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="pRps3llsVFfzWdUyvhSi-35" value="Dense Output Layer" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-600" y="1356" width="240" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
