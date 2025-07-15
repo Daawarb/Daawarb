@@ -75,13 +75,43 @@
           <mxGeometry x="897.8299999999999" y="100.00000000000001" width="64.35" height="48.48" as="geometry" />
         </mxCell>
         <mxCell id="xzNsJqbPr1EgRHQ_QwE4-34" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Training Data&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="680" y="370" width="130" height="60" as="geometry" />
+          <mxGeometry x="680" y="360" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzNsJqbPr1EgRHQ_QwE4-35" value="&lt;b style=&quot;font-family: Verdana; font-size: 16px;&quot;&gt;Testing Data&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1035" y="361" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzNsJqbPr1EgRHQ_QwE4-36" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 16px; color: rgb(102, 0, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Multicollinearity Test of Conditioning Parameters&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="690" y="160" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzNsJqbPr1EgRHQ_QwE4-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="250" as="sourcePoint" />
+            <mxPoint x="920" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzNsJqbPr1EgRHQ_QwE4-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="856" y="250" as="sourcePoint" />
+            <mxPoint x="986" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzNsJqbPr1EgRHQ_QwE4-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="856" y="292" as="sourcePoint" />
+            <mxPoint x="856" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzNsJqbPr1EgRHQ_QwE4-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="986" y="291" as="sourcePoint" />
+            <mxPoint x="986" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzNsJqbPr1EgRHQ_QwE4-43" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 16px; color: rgb(255, 0, 128);&quot;&gt;&lt;b&gt;VIF&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="790" y="292" width="103" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xzNsJqbPr1EgRHQ_QwE4-44" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ff0080&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Tolerance&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="956" y="292" width="97" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
