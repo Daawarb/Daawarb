@@ -84,7 +84,7 @@
           <mxGeometry x="942.5" y="343" width="135.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="xzNsJqbPr1EgRHQ_QwE4-45" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Verdana&quot; color=&quot;#0000ff&quot;&gt;&lt;b style=&quot;&quot;&gt;Training Models&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="58" y="479" width="410" height="60" as="geometry" />
+          <mxGeometry x="60" y="479" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzNsJqbPr1EgRHQ_QwE4-49" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Base Classifiers&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="78" y="578" width="190" height="70" as="geometry" />
