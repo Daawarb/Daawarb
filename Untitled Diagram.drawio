@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Climate change">
     <mxGraphModel dx="3065" dy="1144" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="1" shadow="1">
       <root>
@@ -471,107 +471,217 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 27px;&quot; face=&quot;Garamond&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;IPCC approach for Storm Surge Flood Risk assessment&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 204), rgb(44, 44, 1)); font-size: 25px; font-family: Garamond;&quot;&gt;&lt;i&gt;&amp;nbsp; (Risk = Hazard * Exposure * Vulnerability)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF00;strokeColor=#660033;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="60" y="10" width="1060" height="70" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;IPCC approach for Storm Surge Flood Risk assessment&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 204), rgb(44, 44, 1));&quot;&gt;&lt;i style=&quot;&quot;&gt;&amp;nbsp; (Risk = Hazard * Exposure * Vulnerability)&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF00;strokeColor=#660033;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="1150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-4" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Stage 1&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15" y="90" width="130" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-4" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Stage 1&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10" y="92" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-8" value="&lt;b style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Database Construction&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="90" width="290" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-8" value="&lt;b style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 26px;&quot;&gt;Database Construction&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="110" y="90" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-9" value="Storm surge flood inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="170" width="230" height="60" as="geometry" />
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;curved=1;" edge="1" parent="1" source="H7Mb1FMc6PHfMNzX0Aci-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-10" value="Conditioning parameters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="246" width="230" height="60" as="geometry" />
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-14" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 19px; color: rgb(0, 0, 153);&quot;&gt;&lt;b style=&quot;&quot;&gt;70 % Training data&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NPgbe-fhweyUJFUCEDGC-13">
+          <mxGeometry x="0.0968" y="2" relative="1" as="geometry">
+            <mxPoint y="21" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-11" value="Hazard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="246" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-9" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Georgia&quot;&gt;&lt;b&gt;Storm surge flood inventory&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
+          <mxGeometry x="167" y="339" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-12" value="Exposure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="346" width="120" height="60" as="geometry" />
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=6;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="160" as="sourcePoint" />
+            <mxPoint x="305" y="296" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="160" />
+              <mxPoint x="350" y="296" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-13" value="Vulnerability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="346" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-10" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;Conditioning parameters&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="370" y="140" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-15" value="&lt;span style=&quot;font-size: 25px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Data Processing and Analysis&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="92" width="370" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-11" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Hazard&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="200" y="147" width="105" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-16" value="Multicollinearity test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="169" width="230" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-12" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Exposure&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="195" y="210" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-17" value="VIF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="269" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-13" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Vulnerability&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="155" y="279" width="150" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-18" value="Tolerance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="269" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 26px;&quot;&gt;Data Processing and Analysis&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="730" y="92" width="420" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-19" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Stage 2&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="90" width="130" height="60" as="geometry" />
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;fillColor=none;curved=1;" edge="1" parent="1" source="H7Mb1FMc6PHfMNzX0Aci-16" target="H7Mb1FMc6PHfMNzX0Aci-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-20" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Stage 3&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="414" width="130" height="60" as="geometry" />
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;curved=1;" edge="1" parent="1" source="H7Mb1FMc6PHfMNzX0Aci-16" target="H7Mb1FMc6PHfMNzX0Aci-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-22" value="Hazard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="561" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-16" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Multicollinearity test&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="760" y="150" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-23" value="&lt;span style=&quot;font-size: 25px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Training Models&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="481" width="335" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-17" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;VIF&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="630" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-24" value="Vision Transformers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="561" width="230" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-18" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Tolerance&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-25" value="Exposure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="641" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-19" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Stage 2&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="92" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-26" value="Vulnerability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="641" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-20" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Stage 3&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="389" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-27" value="Tabular Transformers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="641" width="230" height="60" as="geometry" />
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7Mb1FMc6PHfMNzX0Aci-22" target="H7Mb1FMc6PHfMNzX0Aci-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="459.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-28" value="&lt;div&gt;Fusion Model&lt;/div&gt;(Vision- Tabular Transformers)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="721" width="230" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-22" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Hazard&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="60" y="441.5" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-30" value="Risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="721" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-23" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 26px;&quot;&gt;Training Models&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="100" y="389" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-31" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Stage 4&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="985" y="337" width="130" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-24" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Vision Transformers&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="309" y="438.5" width="230" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-32" value="&lt;span style=&quot;font-size: 25px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Mapping &amp;amp; Validation of Models&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="389" width="410" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-25" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Exposure&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="80" y="490" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-33" value="Hazard Map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="469" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-26" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Vulnerability&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="40" y="543.5" width="140" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-34" value="Exposure Map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="549" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-27" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Tabular Transformers&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="320" y="520" width="239" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-35" value="Vulnerability Map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="549" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-28" value="&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Fusion Model&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;(Vision- Tabular Transformers)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+          <mxGeometry x="230" y="584.5" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-36" value="Risk Map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="619" width="120" height="60" as="geometry" />
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="618" as="targetPoint" />
+            <mxPoint x="190" y="618" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="618" />
+              <mxPoint x="170" y="618" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-37" value="ViT Attention maps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="459" width="230" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-30" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Risk&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="50" y="603.5" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-38" value="SHAP analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="539" width="230" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-31" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Stage 4&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="580" y="275" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-39" value="Performance Assessment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="775" y="619" width="155" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-32" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 26px;&quot;&gt;Mapping &amp;amp; Validation of Models&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="700" y="268" width="440" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-40" value="Validation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="619" width="155" height="60" as="geometry" />
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="H7Mb1FMc6PHfMNzX0Aci-33" target="H7Mb1FMc6PHfMNzX0Aci-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-41" value="RMSE, MAE, R&lt;sup&gt;2&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-33" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Hazard Map&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="720" y="338" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-42" value="Confusion Matrix, AUC-ROC, Accuracy, Precision, Recall, F1 Score" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="701" width="120" height="60" as="geometry" />
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="432" as="targetPoint" />
+            <mxPoint x="732" y="432" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-34" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Exposure Map&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="595" y="402" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H7Mb1FMc6PHfMNzX0Aci-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="432" as="targetPoint" />
+            <mxPoint x="970" y="432" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-35" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Vulnerability Map&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="960" y="402" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="H7Mb1FMc6PHfMNzX0Aci-36" target="H7Mb1FMc6PHfMNzX0Aci-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="H7Mb1FMc6PHfMNzX0Aci-36" target="H7Mb1FMc6PHfMNzX0Aci-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="507.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-36" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Risk Map&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="850" y="477.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-37" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;ViT Attention maps&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="925" y="338" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-38" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;SHAP analysis&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="800" y="402" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="692.5" y="572" as="targetPoint" />
+            <mxPoint x="692.5999999999999" y="533" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-39" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Performance Assessment&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="595" y="482" width="195" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="H7Mb1FMc6PHfMNzX0Aci-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-40" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Validation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-41" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;RMSE, MAE, R&lt;sup style=&quot;&quot;&gt;2&lt;/sup&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="620" y="580" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-42" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Confusion Matrix, AUC-ROC, Accuracy, Precision, Recall, F1 Score&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="830" y="563.5" width="330" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H7Mb1FMc6PHfMNzX0Aci-13" target="H7Mb1FMc6PHfMNzX0Aci-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-10" value="" style="strokeWidth=6;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="180" y="514.5" width="140" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;curved=1;" edge="1" parent="1" target="H7Mb1FMc6PHfMNzX0Aci-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="360" as="sourcePoint" />
+            <mxPoint x="593" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-16" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 19px; color: rgb(0, 0, 204);&quot;&gt;&lt;b style=&quot;&quot;&gt;30% Validation data&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NPgbe-fhweyUJFUCEDGC-15">
+          <mxGeometry x="-0.008" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NPgbe-fhweyUJFUCEDGC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="543.25" as="sourcePoint" />
+            <mxPoint x="310" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-33" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="161" as="sourcePoint" />
+            <mxPoint x="305" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPgbe-fhweyUJFUCEDGC-34" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352" y="226" as="sourcePoint" />
+            <mxPoint x="302" y="226" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
