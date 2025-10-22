@@ -547,7 +547,7 @@
         <mxCell id="H7Mb1FMc6PHfMNzX0Aci-27" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Swin Transformers&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="35.5" y="535" width="239" height="56.5" as="geometry" />
         </mxCell>
-        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-28" value="&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Fusion Transformers Model&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+        <mxCell id="H7Mb1FMc6PHfMNzX0Aci-28" value="&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Fusion Transformer Model&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
           <mxGeometry x="350" y="454" width="187.5" height="110.5" as="geometry" />
         </mxCell>
         <mxCell id="H7Mb1FMc6PHfMNzX0Aci-31" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Stage 4&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#d80073;fontColor=#ffffff;gradientColor=default;" parent="1" vertex="1">
@@ -620,7 +620,7 @@
           <mxGeometry x="4" y="56" width="564" height="300" as="geometry" />
         </mxCell>
         <mxCell id="8rf9r4kUjrvoN77SVLc5-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontColor=#ffffff;strokeColor=#000099;" parent="1" vertex="1">
-          <mxGeometry x="5" y="366" width="565" height="244" as="geometry" />
+          <mxGeometry x="4" y="366" width="565" height="244" as="geometry" />
         </mxCell>
         <mxCell id="8rf9r4kUjrvoN77SVLc5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#001DBC;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="580" y="57" width="580" height="183" as="geometry" />
