@@ -80,7 +80,7 @@
         <mxCell id="K3J2H27gi824cJFLHT_J-39" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;strokeColor=#0000CC;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-463" y="163" as="sourcePoint" />
-            <mxPoint x="-463" y="272" as="targetPoint" />
+            <mxPoint x="-463" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K3J2H27gi824cJFLHT_J-40" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#660033;" value="&lt;font face=&quot;Georgia&quot; style=&quot;color: rgb(255, 255, 0); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Hyperparameter&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;color: rgb(255, 255, 0); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Optimization&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -117,7 +117,7 @@
           <mxGeometry height="36" width="284" x="-295" y="237.25" as="geometry" />
         </mxCell>
         <mxCell id="K3J2H27gi824cJFLHT_J-51" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="&lt;font face=&quot;Georgia&quot; style=&quot;color: rgb(204, 0, 102); font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Training and Validation Losses&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="336" x="-511" y="289.25" as="geometry" />
+          <mxGeometry height="36" width="336" x="-536" y="277.25" as="geometry" />
         </mxCell>
         <mxCell id="K3J2H27gi824cJFLHT_J-52" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;strokeColor=#0000CC;">
           <mxGeometry relative="1" as="geometry">
