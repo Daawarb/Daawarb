@@ -71,16 +71,15 @@
         <mxCell id="K3J2H27gi824cJFLHT_J-37" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;fillColor=#009999;fontColor=#FFE599;fontFamily=Garamond;fontStyle=1" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;Dense Output Layer&lt;/font&gt;" vertex="1">
           <mxGeometry height="36" width="261" x="-895" y="427.25" as="geometry" />
         </mxCell>
-        <mxCell id="K3J2H27gi824cJFLHT_J-38" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.689;exitY=0.166;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=6;strokeColor=#0000CC;" target="K3J2H27gi824cJFLHT_J-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-418.6399999999999" y="42.86400000000003" as="sourcePoint" />
-            <mxPoint x="-218" y="42.84999999999991" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K3J2H27gi824cJFLHT_J-39" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;strokeColor=#0000CC;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-463.66999999999996" y="260.75" as="sourcePoint" />
             <mxPoint x="-463.66999999999996" y="296.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI7LPoVuFo2y-_1ZHiDk-3" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3J2H27gi824cJFLHT_J-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=5;strokeColor=#000099;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-216" y="84.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K3J2H27gi824cJFLHT_J-40" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#660033;" value="&lt;font face=&quot;Georgia&quot; style=&quot;color: rgb(255, 255, 0); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Hyperparameter&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;color: rgb(255, 255, 0); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Optimization&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
